@@ -1,0 +1,12 @@
+img:hover {
+    transform: scale(1,2);
+}
+
+img:hover {
+    transform: 1s ease;
+}
+
+img {
+    max-width: 500px;
+    height: 100px;
+}
